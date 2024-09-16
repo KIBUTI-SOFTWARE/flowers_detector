@@ -17,9 +17,6 @@ Flowers detector is an elegant, interactive web application that allows users to
 
 ## Screenshots
 
-Click the image above to watch a full video demonstration of the Flower Detection Gallery in action.
-
-### Screenshots
 
 #### Home Page
 ![Home Page](https://res.cloudinary.com/dluyrdk80/image/upload/v1726468166/flowerdectorhome_yh2a9f.png)
